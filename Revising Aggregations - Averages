@@ -1,0 +1,1 @@
+select avg(population) as avg_population from city where district='California';
